@@ -14,7 +14,7 @@ Questa è una semplice **pagina statica**, ma allo stesso tempo interamente anim
 
 ## 🔗 Live
 
-👉 [Visita la landing page](https://waitdiscoverygubbio.com)
+👉 [Visita la landing page](https://wait.discoverygubbio.com)
 
 ## 🛠️ Tecnologie
 
